@@ -1,0 +1,4 @@
+# Parameters
+steps = 764  # total number of steps to evolve (also determines the grid size)
+rule_a =119 # first rule number
+rule_b = 199  # second rule number
